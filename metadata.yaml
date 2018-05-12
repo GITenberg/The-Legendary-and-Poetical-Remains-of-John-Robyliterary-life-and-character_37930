@@ -1,0 +1,35 @@
+_repo: The-Legendary-and-Poetical-Remains-of-John-Robyliterary-life-and-character_37930
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roby, John
+    alias: Roby, J. (John)
+    birthdate: 1793
+    deathdate: 1850
+    gutenberg_agent_id: '5971'
+    url: http://www.gutenberg.org/2009/agents/5971
+  editor:
+    agent_name: Trestrall, Elizabeth Ryland Dent
+    alias: Trestrail, Mrs. Elizabeth Ryland (Dent)
+    birthdate: 1813
+    gutenberg_agent_id: '39138'
+    url: http://www.gutenberg.org/2009/agents/39138
+description: ''
+gutenberg_issued: '2011-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37930'
+  lccn: '28008871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Roby, John, 1793-1850'
+- !lcc 'PR'
+title: "The Legendary and Poetical Remains of John Roby\r\nauthor of 'Traditions of\
+  \ Lancashire', with a sketch of his literary life and character"
+url: http://www.gutenberg.org/ebooks/37930
